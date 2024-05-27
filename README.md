@@ -36,8 +36,13 @@ Para rodar o projeto localmente é necessário executar os containers primeirame
   docker-compose -f .\docker-rabitMQ.yml up
 ```
 
+
+
 ## Rodar o aplicativo
 ```bash
+#install
+$npm install
+
 # development
 $ npm run start
 
